@@ -1,0 +1,48 @@
+college_website/
+│
+├── css/
+│   └── styles.css
+│
+├── js/
+│   └── scripts.js
+│
+├── includes/
+│   ├── db.php
+│   ├── header.php
+│   └── footer.php
+│
+├── student/
+│   ├── index.php
+│   ├── login.php
+│   ├── course_registration.php
+│   ├── courses_registered.php
+│   ├── fee_payment.php
+│   ├── checkout.php
+│   └── id_card.php
+│   └── logout.php
+│
+├── admin/
+│   ├── index.php
+│   ├── login.php
+│   ├── register.php
+│   ├── students_list.php
+│   ├── faculty_list.php
+│   ├── parents_list.php
+│   ├── salary.php
+│   └── id_card.php
+│   └── logout.php
+│
+├── faculty/
+│   ├── index.php
+│   ├── login.php
+│   ├── course_teaching.php
+│   ├── mentee_student_details.php
+│   ├── salary.php
+│   └── id_card.php
+│   └── logout.php
+│
+└── parents/
+    ├── login.php
+    ├── student_fees.php
+    └── student_courses.php
+    └── logout.php
